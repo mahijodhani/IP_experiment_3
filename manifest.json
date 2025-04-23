@@ -1,0 +1,39 @@
+{
+    "name": "Unique College Homepage",
+    "short_name": "Zollege",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "description": "Discover the best educational opportunities at Unique College",
+    "lang": "en",
+    "dir": "ltr",
+    "theme_color": "#0d6efd",
+    "background_color": "#ffffff",
+    "orientation": "any",
+    "icons": [
+      {
+        "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "About Us",
+        "url": "/#about",
+        "description": "Learn about our history, mission and values"
+      },
+      {
+        "name": "Our Courses",
+        "url": "/#services",
+        "description": "Explore the courses we offer"
+      }
+    ]
+  }
+  
